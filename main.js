@@ -1,5 +1,11 @@
 'use strict'
-
+/*
+The idea is that we have 2 arrays of objects represent item names and prices
+at two different times (sale vs regular). You are going to get a list of carts,
+representing a person and things in their cart. implement a function, calctotals,
+that takes listings, returns a function that can take a list of carts that outputs
+a 
+*/
 const {
   listing,
   cart,
